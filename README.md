@@ -31,7 +31,7 @@ First we add Sidekiq to our Gemfile and run `bundle install`:
 ```ruby
 gem 'sidekiq'
 ```
-
+****
 Sidekiq depends on [Redis](http://redis.io/), which you'll need to install. If you're running on OS X, you can run
 
 ```bash
